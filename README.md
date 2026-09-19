@@ -1,13 +1,13 @@
-# Smart-Ambulance-Rapid-Response-System-
-Smart Ambulance  Rapid Response System to  creat the Rapid Response  in emergency case
+# Smart-Ambulance-Rapid-Response-System
+Smart Ambulance  Rapid Response System to  create the Rapid Response  in emergency case
 🚑 Smart Ambulance Rapid Response System
 
 «AI-Powered Emergency Response & Smart Ambulance Coordination Platform»
 
 Team: Bio Pulse
 Project: Smart Ambulance Rapid Response System
-Domain: Healthcare / Emergency Medical Services
-Problem Code: SIH26115
+Domain: Healthcare
+Problem ID: HE-02
 
 ---
 
@@ -26,7 +26,7 @@ The system also supports AI-based ETA prediction, route optimization, emergency 
 During medical emergencies, delays can occur because of:
 
 - 📞 Incomplete emergency information
-- 🚑 Difficulty finding the nearest available ambulance
+- 🚑 Difficulty to find the nearby ambulance
 - 🚦 Traffic congestion
 - 🏥 Lack of communication with hospitals
 - 📍 Incorrect or unavailable patient location
@@ -134,7 +134,7 @@ AI can estimate ambulance arrival time using factors such as:
 - Road conditions
 - Historical travel time
 - Ambulance location
-- Time of day
+- Time of delay
 
 Example:
 
@@ -400,17 +400,16 @@ The system is intended as a prototype decision-support and coordination platform
 
 ---
 
-👨‍💻 Team Bio Pulse
+👨‍💻 Team Details
 
 Team Name: Bio Pulse
 
 Team Members
 
-- sankaralingam.M.B
-- sharan.M
-- vishwa.M
-- boopathi.R 
-- Bio Pulse Team Members
+- Sankaralingam.M.B
+- Sharan.M
+- Vishwa.M
+- Boopathi.R 
 
 ---
 
