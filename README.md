@@ -42,7 +42,7 @@ These delays can affect emergency response efficiency.
 
 Our system creates a connected emergency-response ecosystem:
 
-Emergency Caller
+Emergency Caller( work in offline mode or low network coverage area to make a call easy) 
        ↓
 AI Emergency Call Agent
        ↓
@@ -63,8 +63,10 @@ Hospital Emergency Preparation
 ---
 
 🚨 Key Features
+1.During low Network Area we can Alternatively use USSD code 
+(Unstructured Supplementary Service Data)
 
-1. 📞 AI Emergency Call Agent
+2. 📞 AI Emergency Call Agent
 
 An AI-based call-handling agent receives the emergency call and collects essential information.
 
@@ -264,10 +266,13 @@ Possible AI components:
 - ETA prediction
 - Route optimization
 - Emergency classification
+  
+USSD
+During low Network Area we can Alternatively use USSD code (Unstructured Supplementary Service Data)
 
 🔄 Emergency Workflow
 
-Step 1 — Emergency Call
+Step 1 — Emergency Call(During low Network Area we can Alternatively use USSD code to make call)
 
 The user calls the emergency service.
 
@@ -386,7 +391,7 @@ Future versions can include:
 
 The proposed system aims to improve:
 
-- Emergency communication
+- Emergency communication(durin in offline mode or low net work area) 
 - Ambulance dispatch coordination
 - Location accuracy
 - Response-time visibility
