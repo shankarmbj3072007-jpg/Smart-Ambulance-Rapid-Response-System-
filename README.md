@@ -42,23 +42,23 @@ These delays can affect emergency response efficiency.
 
 Our system creates a connected emergency-response ecosystem:
 
-Emergency Caller( work in offline mode or low network coverage area to make a call easy) 
-       ↓
-AI Emergency Call Agent
-       ↓
-Patient & Emergency Details
-       ↓
-Smart Ambulance System
-       ↓
-Nearest Available Ambulance
-       ↓
-AI Route + ETA Prediction
-       ↓
-Traffic Priority Coordination
-       ↓
-Destination Hospital
-       ↓
-Hospital Emergency Preparation
+1.Emergency Caller( work in offline mode or low network coverage area to make a call easy)
+
+2.AI Emergency Call Agent
+       
+3.Patient & Emergency Details
+
+4.Smart Ambulance System
+       
+5.Nearest Available Ambulance
+       
+6.AI Route + ETA Prediction
+       
+7.Traffic Priority Coordination
+       
+8.Destination Hospital
+       
+9.Hospital Emergency Preparation
 
 ---
 
